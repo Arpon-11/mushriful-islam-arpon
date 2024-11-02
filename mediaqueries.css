@@ -99,6 +99,7 @@
     flex-direction: column;
     margin-bottom: 70vh;
     gap: 2rem;
+    padding-bottom: 30vh;
   }
   .title {
     padding-bottom: 5vh;
